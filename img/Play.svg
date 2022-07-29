@@ -1,0 +1,16 @@
+<svg width="66" height="66" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Btn/see">
+<circle id="Ellipse 2" cx="33" cy="33" r="32.5" stroke="url(#paint0_linear_1_243)"/>
+<path id="Polygon 1" d="M42.0001 33.0001L28.5001 40.7944L28.5001 25.2059L42.0001 33.0001Z" stroke="url(#paint1_linear_1_243)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_243" x1="0" y1="0" x2="73.6812" y2="10.1299" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF1A1E"/>
+<stop offset="1" stop-color="#D9090D"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1_243" x1="36.6604" y1="46.6604" x2="18.8589" y2="32.8382" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF1A1E"/>
+<stop offset="1" stop-color="#D9090D"/>
+</linearGradient>
+</defs>
+</svg>
